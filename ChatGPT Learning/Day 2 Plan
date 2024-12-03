@@ -1,0 +1,23 @@
+Day 2: File Management and Permissions
+Task: Learn about file permissions and practice managing them.
+
+Open the terminal and navigate to the test folder you created on Day 1.
+Run ls -l to review file permissions.
+Commands to learn and practice:
+
+chmod: Change file permissions.
+Example: chmod 644 testfile or chmod +x script.sh.
+chown: Change file ownership (use sudo to try it).
+Example: sudo chown username:groupname testfile.
+touch and mkdir: Create test files and directories to practice on.
+rm -r: Remove directories.
+Practical Exercise:
+
+Create a file (touch testfile.txt).
+Change its permissions to read-only for the owner and no access for others (chmod 400 testfile.txt).
+Test editing or accessing it to see how permissions work.
+Reset the permissions to normal (chmod 644 testfile.txt).
+Note-taking:
+
+Record the meaning of different permission numbers (e.g., 644, 755) and how rwx translates into numbers.
+Let me know how it goes and if you're ready for Day 3!
