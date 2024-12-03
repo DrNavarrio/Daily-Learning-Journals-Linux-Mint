@@ -3,7 +3,7 @@ Introduction to this challenge
 _____
 
 12/02/2024 - 5:56 PM
-dr ///// paul // DrNavarrio // doc // callhimdoctor
+dr ///// paul // DrNavarrio // doc // callhimdoctor // nob
 
 ****
      Challenge: Spend at least 30 minutes a day learning Linux.
