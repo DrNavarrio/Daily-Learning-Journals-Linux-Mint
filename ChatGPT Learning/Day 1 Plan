@@ -1,0 +1,13 @@
+For Day 1, start with getting familiar with your Linux Mint system and its layout:
+
+Task: Explore the Linux Mint desktop environment and terminal. Spend time navigating through the file manager and settings to understand its layout.
+
+Commands to practice in the terminal:
+
+ls -l to see detailed file information.
+man ls to learn how to read a manual page.
+cd to navigate directories; explore /home, /var, /etc.
+touch and rm to create and delete files in a test folder you create (e.g., mkdir test-folder).
+Note-taking: Write down anything you discover, such as default directories, their purpose, and commands you use.
+
+Let me know tomorrow when you're ready for the next step!
